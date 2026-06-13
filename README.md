@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=200&section=header&text=Pfuxani%20Sam%20Junior%20Ndlovu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20Android%20%7C%20Game%20Dev&descAlignY=55&descColor=ffffff" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Final-year+CS+Student+%40+TUT;Object+Orientated+Programming+%2F+Android+Developer;Aspiring+Game+Developer;The+Grind+Never+Stops+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Final-year+CS+Student+%40+TUT;Full+Stack+Dev+%2F+Android+Developer;Aspiring+Game+Developer;The+Grind+Never+Stops+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/thegrindneverstops21?style=for-the-badge&logo=github&color=6C63FF)](https://github.com/thegrindneverstops21)
 [![Profile Views](https://komarev.com/ghpvc/?username=thegrindneverstops21&style=for-the-badge&color=6C63FF)](https://github.com/thegrindneverstops21)
