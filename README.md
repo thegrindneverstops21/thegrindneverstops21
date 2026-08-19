@@ -31,3 +31,43 @@ public class Sam extends Developer {
     boolean  openToWork()     { return true; }
     boolean  openToRelocate() { return true; }
 }
+───
+​🛠️ Tech Stack
+​Backend & Enterprise
+​Mobile
+​Frontend & Web
+​AI & Tools
+​🚀 Featured Projects
+​Project
+Stack
+Description
+​🌤️ Cloudy
+React · Vite · TypeScript
+Weather app using Open-Meteo + Nominatim APIs, saved locations, hourly forecasts
+​🔖 Bookmarked
+React 19 · TypeScript · Vite
+Bookmark manager: CRUD, favorites, category grouping, dark/light theme
+​🙏 WOC: Honoring Our Leaders
+Next.js 15 · Supabase · Tailwind
+Appreciation site for a Christian ministry, built with Framer Motion
+​───
+​📊 GitHub Stats
+​<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=thegrindneverstops21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7928CA&icon_color=FF0080" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegrindneverstops21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7928CA" height="165"/>
+</div>
+​───
+​🎯 Currently
+• 🎓 Finalizing my WIL final project — an AI-powered student accountability app
+• 📍 Open to relocate → Pretoria / Gauteng
+• 💼 Actively applying for Backend / Android / Full Stack Junior Dev roles
+​📫 Let's Connect
+[
+​](mailto:ndlovusamjunior21@gmail.com)
+[
+​](https://github.com/thegrindneverstops21)
+​───
+​<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7928CA&height=100&section=footer" width="100%"/>
+​"The grind never stops." 🔥
+</div>
