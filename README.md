@@ -4,7 +4,7 @@
 
 👨‍💻 About Me
 
-``java
+```java
 public class Sam extends Developer {
     String[] studying    = {"Diploma in CS @ TUT, Polokwane Campus"};
     String   programme   = "CodeTribe WIL 2026–2027 @ mLab, Polokwane";
