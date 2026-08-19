@@ -15,6 +15,7 @@ public class Sam extends Developer {
     boolean  openToWork()     { return true; }
     boolean  openToRelocate() { return true; }
 }
+```
 
 🛠️ Tech Stack
 
