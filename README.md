@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=57606F&center=true&vCenter=true&width=650&lines=%24+whoami;Pfuxani+Sam+Junior+Ndlovu;%24+status+--check;Building+%E2%80%94+the+grind+never+stops.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=57606F&center=true&vCenter=true&width=650&lines=%24+whoami;Pfuxani+Sam+Junior+Ndlovu;+factus+ad+imaginem+Dei;%24+status+--check;+Building;+think+about+the+user;+the+grind+never+stops.)](https://git.io/typing-svg)
 
 <sub>Software Developer · Full Stack </sub>
 
